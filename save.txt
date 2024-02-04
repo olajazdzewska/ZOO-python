@@ -1,0 +1,20 @@
+15 15 18 3 True 5
+11 10 9 3 True 0 2 True True
+wolf 0 7 5
+antelope 1 9 8
+fox 2 12 8
+guarana 2 1 2
+antelope 3 5 4
+belladonna 4 4 4
+fox 6 4 3
+sosnowsky 6 10 9
+sosnowsky 6 11 0
+sosnowsky 7 11 0
+sheep 8 12 2
+turtle 7 9 7
+wolf 9 4 2
+turtle 10 8 3
+cyber_sheep 12 3 1
+sow_thistle 12 14 9
+cyber_sheep 13 4 7
+grass 14 0 7
